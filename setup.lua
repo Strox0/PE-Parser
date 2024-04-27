@@ -20,7 +20,7 @@ workspace "PE-Parser"
       symbols "Off"
 
 project "PE-Parser"
-	kind "Console"
+	kind "ConsoleApp"
 	language "C++"
 	cppdialect "C++20"
 	staticruntime "off"
